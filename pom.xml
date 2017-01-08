@@ -5,11 +5,13 @@
 	<artifactId>coreRx</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<dependencies>
+		<!-- https://mvnrepository.com/artifact/io.reactivex/rxjava -->
 		<dependency>
-			<groupId>com.netflix.rxjava</groupId>
-			<artifactId>rxjava-core</artifactId>
-			<version>0.20.7</version>
+			<groupId>io.reactivex</groupId>
+			<artifactId>rxjava</artifactId>
+			<version>1.2.4</version>
 		</dependency>
+
 
 		<!-- testing -->
 		<dependency>

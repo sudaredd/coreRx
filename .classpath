@@ -13,7 +13,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src/resources"/>
-	<classpathentry including="**/*.java" kind="src" path="test-output"/>
 	<classpathentry excluding="java/|resources/" kind="src" path="src/main"/>
 	<classpathentry excluding="java/|resources/" kind="src" path="src/test"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
